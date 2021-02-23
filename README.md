@@ -2,7 +2,7 @@
 
 ## Setup
 1. Install Node.js (https://nodejs.org/)
-2. Open Command Prompt and cd to covid-tracker-main file
+2. Open Command Prompt/Terminal and cd to covid-tracker-main file
 3. Install Yarn
 ```
 npm i -g yarn
